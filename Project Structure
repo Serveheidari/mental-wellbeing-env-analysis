@@ -1,0 +1,21 @@
+mental-wellbeing-env-analysis/
+│
+├── data/
+│   ├── wellbeing-local-authority-time-series-v4-filtered.csv
+│   └── urben_park.csv
+│
+├── notebooks/
+│   └── mental_wellbeing_env_analysis.ipynb
+│
+├── src/                     
+│   ├── data_cleaning.py
+│   ├── modeling.py
+│   └── visualization.py
+│
+├── outputs/
+│   ├── figures/
+│   └── results/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
